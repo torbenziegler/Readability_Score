@@ -1,0 +1,287 @@
+MOBILE INTERACTION DESIGN / MOBILE CONTENT – ASSIGNMENT 1
+Für das erste Assignment des Kurses Mobile Interaction Design dekonstruiere ich die App
+„Disney+“. Die Analyse erfolgt auf einem iPhone 11 mit dem Betriebssystem iOS 13.4.1. Zum
+Zeitpunkt der Dekonstruktion befindet sich die App in der Version 1.5.1.
+1. INTERDISCIPLINARY NATURE OF THE APP DESIGN & DEVELOPMENT
+Disney+ wurde auf dem deutschen Markt am 24. März 2020 veröffentlicht. Der Service und
+die damit verbundene App wurde jedoch nicht zeitgleich global zur Verfügung gestellt. Schon
+am 12. November 2019 veröffentlichte Disney seinen Dienst auf dem US-amerikanischen
+Markt. Da es sich um einen Streaming Service handelt, konnte selbst solch ein großer
+Konzern die notwendigen Lizenzen für einen synchronen Start nicht weltweit im Voraus
+erwerben, wodurch keine optimalen Bedingungen zum Zeitpunkt der Veröffentlichung
+erreicht wurden und die Anwendung bislang nur in wenigen Ländern zur Verfügung steht.
+Im Zentrum des Angebots, und das verbundene Erfolgsmodell des Unternehmens, steht die
+umfangreiche Sammlung von Filmen und Serien aus dem Hause Disney. Bislang gab es nur
+wenige bis gar keine Möglichkeiten diese Bibliothek in Form eines Abonnements online zu
+genießen. Wer die Inhalte sehen wollte, musste tief in die Tasche greifen und die Filme
+einzeln kaufen. Mit der Einführung von Disney+ wird den Fans ein attraktives Abo zu
+6,99 Euro monatlich beziehungsweise 69 Euro pro Jahr angeboten. Es gibt keine
+verschiedenen Varianten des Abos wie bei Netflix. Bis zu sieben Personen nutzen einen
+Account und genießen Inhalte, wenn verfügbar, in 4K Qualität. Egal ob man seine
+Kindheitshelden wiedersehen oder neue Galaxien in bisher ungesehenen Filmen entdecken
+möchte. Wer ein Stück weit Kind geblieben ist oder die App mit seiner Familie genießen
+möchte, kommt voll und ganz auf seine Kosten. Des Weiteren wird das Angebot mit neuen
+Studioproduktionen erweitert und lockt neue Kunden an. Dies zeigte die Live-Action Serie
+„The Mandalorian“ aus dem Star Wars Universum, welche mit über 100 Millionen Streams
+im Startmonat Rekorde gebrochen hat1
+. Es besteht kein Zweifel, dass solche Ausreißer für
+neue Kunden sorgen. Das Problem womit Disney+ jedoch zu kämpfen hat, ist, dass das
+Angebot nicht so umfangreich ist wie das der Konkurrenten Netflix oder Amazon Prime. Wer
+aktives Bingewatching betreibt und Film nach Film schaut wird schnell an die virtuellen
+Mauern der App stoßen. Dennoch verspricht das Unternehmen regelmäßig neue Inhalte
+anzubieten, was es bislang mit Bravour bewältigt.
+Die Einführung auf dem deutschen Markt konnte zu keinem besseren Zeitpunkt geschehen
+als jetzt, wenn alle Bürger aufgrund der COVID-19 Krise zu Hause sind. In Kombination mit
+den sechs Gratismonaten für Telekomkunden konnte sich der Konzern eine starke Basis von
+Kunden binnen kürzester Zeit aufbauen. Nach aktuellem Stand sind über 50 Millionen Nutzer
+bei Disney+ mit einem aktiven Abonnement registriert.2 Damit belegt es weltweit den
+1 Quelle: https://techrush.de/beliebteste-streaming-serie-aller-zeiten-the-mandalorian-loest-stranger-thingsab/ abgerufen am 01.05.2020
+2 Quelle: https://www.emarketer.com/content/the-weekly-listen-disney-hits-50-million-subscribers-emailsthat-arrive-on-time-and-airbnb-grapples-with-coronavirus abgerufen am 01.05.2020
+zweiten Platz im Markt der Streaming Anbieter3
+. In den allgemeinen App Charts des Apple
+App Stores belegt die App derzeit Platz 14, in der Kategorie Unterhaltung schafft sie es mit
+dem dritten Platz auf das Podium. Im Google Play Store belegt die App den achten Platz der
+allgemeinen Charts (Stand 01.05.2020).
+Disney+ ist ein moderner Klassiker der Streaming Services und bedient sich als solcher von
+nicht allzu vielen Features des Gerätes. Es wird lediglich der Bildschirm zur Videowiedergabe
+und Lautsprecher beziehungsweise ein Kopfhöreranschluss zur Audiowiedergabe benötigt.
+Auf Gimmicks durch Kamera- oder Mikrofonintegration wird verzichtet, um die App
+möglichst vielen Endgeräten zur Verfügung zu stellen, auch jenen, die nicht mit
+leistungsstarken Komponenten ausgestattet sind.
+Die App wird derzeit auf diversen Plattformen angeboten. Dadurch hat jeder die Möglichkeit
+den Dienst zu nutzen und hat die Qual der Wahl seiner gewünschten Plattform. Der Service
+steht auf Mobilgeräten, Tablets, Smart TVs, Streaming Boxen wie Amazon Fire TV oder
+Google Chromecast, Spielekonsolen und in Webbrowsern auf dem Desktop zur Verfügung.
+Die Wahl des Gerätes beeinflusst sich nicht auf das Erlebnis der Applikation. Auf nahezu
+allen Plattformen verhält sich das Produkt identisch, verfolgt dasselbe Designpattern und
+Inhalte werden auf identischen Wegen gefunden.
+2. CONTENT & INFORMATION ARCHITECTURE
+Disney+ zeichnet sich durch einen rundum durchdachten
+Angebotskatalog aus. Dies zeigt sich im Aufbau der
+Anwendung so wie in der Strukturierung der Inhalte.
+Dem User fallen sofort in einer großen Anzeigefläche die
+aktuellen Highlights ins Auge. Dies beinhaltet
+Neuerscheinungen, sowie aktuelle beliebte Filme. Aktuell
+nähert sich der 4. Mai, welcher ein Feiertag für Star Wars Fans
+ist. Disney berücksichtigt diesen Fakt und stellt den Kunden
+Sammlungen und Empfehlungen jener Filme vor und animiert
+so diesen die Filme und Serien zu konsumieren.
+Des Weiteren findet man unter der großen einführenden
+Schaltfläche mehrere kleine Flächen, die die verschiedenen
+Studios repräsentieren. Je nach „Disney“, „Pixar“ oder
+„Marvel“ gelangt man so schnell zu seinen gewünschten
+Produkten, beziehungsweise kann dadurch neue Rubriken
+und Inhalte kennenlernen.
+3 Quelle: https://www.statista.com/chart/19970/disney-10-million-subscribers-24-hours/ abgerufen am
+01.05.2020
+Abbildung 1: Home Ansicht
+Die Sektion „Empfehlungen für dich“ nutzt die Grundlage der gesehenen Inhalte um ähnliche
+Filme empfehlen zu können. Disney+ erfindet hierbei das Rad nicht neu, vergleichbare
+Algorithmen findet man auch bei Netflix oder Amazon Prime. Trotzdem ist es eine hilfreiche
+Methode sichergehen zu können, dass man sich mit dem nächsten Film nicht langweilt, da
+sie vergleichbar zu anderen Inhalten sind, die man sich schon angeschaut hat. Wer „Monster
+AG“ angeschaut hat, dem wird sehr wahrscheinlich auch „Monster Uni“ vorgeschlagen, da
+die Filme miteinander in Beziehung stehen. Das gilt auch für Prequels, Sequels oder gar
+andere Filme, die in der gleichen Rubrik zu finden sind. Konsumenten, die Fans der „Fluch
+der Karibik“ Filme sind werden sicher auch den Film „Der Schatzplanet“ mögen, da beide
+Filme Piraten enthalten.
+Die Produktbetreibenden haben das Ziel die Kunden so lange
+wie möglich an die Plattform zu binden. Es werden immer
+wieder Neuerscheinungen in den Fokus gerückt,
+Assoziationen der angesehenen Inhalte werden analysiert
+und aufgedeckt um ein eigenes, auf den Nutzer
+zugeschnittenes, Erlebnis zu garantieren.
+Was auffällt ist, dass noch nicht abgeschlossene Filme und
+Serien nicht sofort nach dem Öffnen der App auf dem
+Display angezeigt werden. Erst nach ein wenig scrollen findet
+der Benutzer die pausierten Inhalte und setzt dort fort, wo er
+das letzte Mal aufgehört hat. Warum dieser Teil in der
+Struktur erst so tief vorkommt ist nicht ganz klar, in der
+Konkurrenz zeigt sich die Usability stärker, da bei anderen
+Apps die pausierten Filme ersichtlicher sind, nämlich direkt
+beim Starten der App. Das reißt den Nutzer aus seinem
+natürlichen Flow, da er die Struktur und Aufbau der Apps
+anders gewöhnt ist. Es wird jedoch ein Wenig damit
+ausgeglichen, dass die „Weiterschauen“ Rubrik sich wieder
+durch eine größere Fläche von den anderen Inhalten des
+Katalogs abhebt. Es wird erkenntlich, dass es sich um etwas
+Wichtiges handelt und durch den blauen Fortschrittsbalken
+am unteren Rand der Fläche weiß der User auch, wie viel Zeit
+des Inhalts noch verbleibt. Mithilfe seiner Kenntnisse über
+andere Anwendungen ist er in der Lage den Schluss zu
+ziehen, dass es ihm hier ermöglicht wird seine Inhalte weiter
+zu schauen. Nichtsdestotrotz wäre es eine
+nutzerfreundlichere Entscheidung diese Sektion nach oben
+zu verlagern, um Wege zu kürzen und ein Gefühl des Suchens zu unterdrücken.
+Anschließend spaltet sich der Katalog bewusst in die verschiedenen Rubriken der Filme auf.
+Von „Komödien“ über „Tiere und Natur“ bis zu „Dokumentationen“ kann der User sich
+austoben und Filme seiner personalisierten Watchlist hinzufügen. Auf dieser kann der
+Anwender die Filme und Serien dokumentieren, damit er sie für später gespeichert hat und
+Abbildung 2: Empfehlungen und Weiterschauen
+nicht nochmal komplett durch die Oberfläche navigieren
+muss. Abgerundet werden die Rubriken mit
+außergewöhnlichen Sektionen wie „Nostalgie pur“ oder
+„Neu verfilmte Klassiker“. Aus den gewohnten Genres bringt
+Disney wieder neue hervor, was ein Anreiz schafft Neues
+anzuschauen und sich mit der Applikation weiter
+auseinanderzusetzen.
+Wer einen Film für sich entdeckt, kann auf diesen tippen
+und erhält weitere Informationen. Auf diesem neuen Layer
+der App enthält der User ein weiteres Bild zum Film, einen
+kurzen beschreibenden Text über das, was der Film zeigt
+und weitere Informationen wie Altersfreigabe,
+Erscheinungsjahr, Laufzeit des Films, Genre und
+Audioinformationen.
+In den Beschreibungen der Inhalte wird auch gerne mal auf
+veraltete Sichtweisen und verzerrte Weltbilder, die es heute
+nicht mehr so gibt, hingewiesen. Diese zeigen sich vermehrt
+in alten Klassikern der Disney Animationsstudios. An dieser
+Stelle muss man ein Lob an Disney geben, da andere
+Anbieter sich um diese Details nicht kümmern. Durch diese
+kurzen Informationen fällt es Eltern leichter Filme
+auszuwählen, Zustände in den gezeigten Szenen ihren
+Kindern besser zu vermitteln und zu erläutern.
+Informationen über die Sprachauswahl des Inhaltes erhält
+der User erst, wenn er den Film startet. Die Auswahl hängt
+von den Inhalten ab. Für manche gibt es mehrere Sprachen,
+für andere meist nur Englisch oder Deutsch. Zu jeder Sprache werden auch noch optionale
+Untertitel mitgeliefert, die die Barrierefreiheit fördert und auch Menschen mit Behinderung
+die Möglichkeit bietet an dem Erlebnis teilzunehmen.
+Wenn man einen Film auswählt und sich auf dem bereits genannten zweiten Layer der App
+befindet, erhält man auch Empfehlungen für weitere Filme, Extras wie zum Beispiel Trailer,
+„Deleted Scenes“ oder sogar Diskussionsrunden der Regisseure. Vergleichbare Extras,
+abgesehen von Trailern, findet man auf anderen Streaming Plattformen eher weniger bis gar
+nicht. Inhalte können auch heruntergeladen und offline angesehen werden.
+Abbildung 3: Ansicht eines Films
+3. NAVIGATION
+Disney+ wird vorzugsweise von jüngeren aber auch von
+Usern bis ins mittlere Alter genutzt. Das liegt daran, dass
+diese Zielgruppe eher internetaffin und aufgeschlossener
+gegenüber Streamingdiensten ist. Die Hauptfunktionalität
+der Applikation äußert sich im Anschauen und
+Konsumieren von Videoinhalten.
+Die App verfügt über eine „Fully Connected“ Navigation.
+Das heißt, man kann jegliche Inhalte über das Tab Bar
+Interface Menü am unteren Bildschirmrand erreichen und
+die Navigationsleiste ist immer sichtbar. Sie besteht aus
+den Bereichen „Home“, der Kategorien und Inhalte
+beinhaltet, des Weiteren die „Suche“, in der man nach
+Filmen und Serien suchen aber auch weitere Inhalte
+entdecken kann, da dieser Bereich auch noch Kollektionen
+entsprechender Filmstudios und Filmwelten enthält. An
+dritter Stelle der Tab Bar erreicht man seine Downloads,
+das heißt die auf dem Gerät gespeicherten Filme. Die Tab
+Bar wird mit der vierten Option, das eigene Profil mit den
+App Einstellungen, abgerundet.
+Ein weiteres Navigation Design Pattern zeigt sich im
+Anlegen eines neuen Profils. Es wird ein „Step by Step“
+Pattern angewandt. Man erreicht die Funktion über das
+Profil. Der Nutzer wird durch ein Profil Setup geführt, das
+aus der Auswahl eines Profilbildes, Auswahl eines Namens
+und der Definition der Nutzereinstellungen besteht.
+Der „Home“ Bereich zeichnet sich mit seinen strikt strukturierten Kategorien aus.
+Sie sind groß genug, damit die Namen der Inhalte auf den abgebildeten Flächen erkennbar
+sind, somit fallen Bildunterschriften weg. Mit neuen Kategorien und Neuerscheinungen
+rotiert die Sortierung der Aufzählungen. Sie wirkt somit dynamisch und nicht starr, jedoch
+kann man so auch mal den Überblick verlieren wo welche Inhalte zu finden sind. Ein wenig
+Zeit muss der User mitbringen, da das Angebot umfangreich und komplex ist.
+Bei der Suchfunktion fällt dem erfahrenen Nutzer eine Innovation auf. Man kann nicht nur
+nach den Titeln der Inhalte oder dem Genre suchen, es besteht auch die Möglichkeit nach
+den Namen der Charaktere und Figuren zu suchen um den Inhalt zu finden. Das ist praktisch,
+wenn einem der Filmtitel entfällt, man jedoch noch den Namen des Hauptcharakters kennt.
+Das Ergebnis für die Suche „Jack Sparrow“ liefert somit die „Fluch der Karibik“ Filme.
+Abbildung 4: Einstellungen und Profilwahl
+Das Menü der Einstellungen ist ebenfalls aufgelistet. Das
+hebt sich vom restlichen Aufbau der App ab, was nicht
+negativ ist. Es zählt nicht zu dem Content, der die App
+eigentlich vermittelt, hier möchte der User seine
+Anliegen schnell und präzise erledigen können. Durch
+die Auflistung sind sämtliche Informationen in wenigen
+Augenblicken erreichbar, damit der Nutzer sich wieder
+auf den Hauptinhalt konzentrieren kann.
+Wenn man den Merksatz „keep distances short“ auf die
+Applikation anwenden möchte, fällt einem auf, dass
+dieser nicht an allen Stellen der App zutrifft. Ein Beispiel
+hierfür wäre „Meine Liste“ wo sich die
+zwischengespeicherten Inhalte des Nutzers befindet.
+Häufig möchte man die App starten und einen Film aus
+seiner Liste ausschauen, sie ist aber nicht direkt nach
+dem Starten der App erreichbar. Man muss erst über die
+Tab Bar auf sein Profil und von dort aus auf den
+Listeneintrag „Meine Liste“, den Film suchen, auswählen
+und durch ein weiteres Tippen schlussendlich starten.
+Dies kostet Zeit (Cost of navigation) und insbesondere
+bei der ersten Verwendung der App ist nicht klar wo sich
+denn „Meine Liste“ überhaupt befindet. Es wäre
+wünschenswert, hätte man bei der ersten Nutzung der
+App ein kleines Tutorial beziehungsweise eine Tour
+durch die Anwendung erhalten. Als Verbesserung
+könnte man „Meine Liste“ in der Tab Bar in den
+Downloads integrieren, damit die nutzerdefinierte Liste
+den Platz mit den Downloads teilt. Auf dieser Weise
+wäre man sehr schnell bei seinen gewünschten Inhalten.
+Die App entspricht den standardisierten Apple
+Guidelines. Inhalte sind klar, der Benutzer bekommt für jede Interaktion ein Feedback der
+Benutzeroberfläche, die Animationen sind flüssig und eine gewisse Tiefe wird über die
+verschiedenen Layer erzeugt. Das Design ist konsistent und verfolgt moderne Ansätze.
+Abbildung 5: Suchfunktion
+4. INTERACTION CHOICES
+Dealing with data
+In der Disney+ App gibt es nur wenige Stellen an denen man mit den Daten interagieren
+kann. Es gibt keine Möglichkeit die App im Landscape Modus auszuführen, nur bei Videos
+wird es als Standardformat festgelegt (hier kann man die Inhalte nicht vertikal anschauen).
+Im Home Bereich kann man sich die einzelnen Kategorien nicht größer anzeigen lassen. Man
+muss sich mit den kleinen aneinandergereihten Vorschaubildern zufriedengeben und kann
+sich nicht in einem gesonderten Layer präziser damit auseinandersetzen. Eine „pull to
+refresh“ Funktion fehlt komplett in der Anwendung. Inhalte können nur über die
+Suchfunktion, die über die Tab Bar erreichbar ist, explizit erreicht werden. An keiner anderen
+Stelle ist das möglich, selbst nicht in der eigenen Liste. Wer eine lange Liste hat, wird hier viel
+Zeit mit suchen verbringen. Im „Suchen“ Tab findet man auch größere Flächen, hinter denen
+sich verschiedene Listen, bestehend aus Inhalten, verstecken. Somit ist der User auf einem
+weiteren Layer unterwegs und hat besseren Zugang zu den gefilterten Serien und Filmen.
+Eine Sortierung der Daten ist auch nicht möglich, selbst nicht nach Erscheinungsjahr. Von
+einem großen Konzern wünscht man sich mehr Usability, wohlmöglich sind die
+Einschränkungen auch bewusst so getroffen worden um eine „sauberere“ UI zu ermöglichen.
+Getting input
+Der User hat nur wenige Möglichkeiten selbst Input an die App weiterzureichen. Für die
+Suche wird es ihm ermöglicht über die Tastatur einen Text einzugeben. Auch beim Anlegen
+eines neuen Profils kann man eine Zeichenkette eingeben. Sonst besteht keine
+Eingabeoption in der gesamten Applikation, weder über weitere Tastatureingaben, Slider
+oder Spinner.
+Notifications
+Disney verzichtet auf Benachrichtigungen an den Benutzer. Obwohl es für einen Streaming
+Service eine gute Idee wäre, wurden Notifikationen nicht implementiert. In über sechs
+Wochen Nutzung habe ich keine einzige Benachrichtigung bekommen, selbst wenn Serien
+auf meiner Liste wöchentlich um neue Folgen erweitert wurden. Genau für neue Inhalte
+wären sie sehr praktisch und benutzerfreundlich gewesen, aber auch als Erinnerung Inhalte
+anzuschauen, die sich schon lange auf der eigenen Liste befinden. Hier wünscht man sich die
+Anpassung an den Standard seitens des App-Betreibers.
+Personalisation
+Man kann nur sein eigenes Profil personalisieren, indem man Namen und Bild (aus einer
+beschränkten Auswahl) anpasst. Sonst gibt es keine Möglichkeit der Personalisation, was
+man von einem Streaming Service jedoch auch nicht erwartet.
+Screen interactions
+Disney+ bietet wenige, aber nützliche Interaktionsgestiken, die das Navigieren durch die App
+erleichtern. Überall kann mein einen normalen single tap anwenden, um Inhalte
+auszuwählen. Sobald man auf dem zweiten Layer der App ist, der Ansicht eines Inhaltes,
+kehrt man durch das Swipen nach unten zurück. Hier durchbricht Disney+ einen Standard auf
+iOS, anstatt von links nach rechts zu wischen um zurückzukehren, wischt man vertikal. Wenn
+man es nicht weiß, lernt man diese Änderung nur durch trial and error. Im Home Bereich
+wischt der User horizontal durch die verschiedenen Filme einer Kategorie. Flick oder pinch
+Gesten sucht man vergeblich.
+Social Network Integration
+Die App verfügt über keine sozialen Funktionen. Es ist nicht möglich Inhalte zu bewerten, zu
+kommentieren oder mit Freunden zu teilen. Wenn man bewusst nach diesen Optionen
+sucht, entsteht ein Gefühl des Eingeschlossen seins. Inhalte würden von Bewertungen und
+Kommentaren profitieren. Insbesondere für den Benutzer wäre es ein Vorteil, da es ihm hilft
+sich leichter zu entscheiden. Da Disney+ dies nicht ermöglicht, kann man nicht mit
+Mitmenschen kommunizieren und sieht nur das, was die App einem anbietet.
+5. CONCLUSION
+Disney+ punktet mit seinem umfangreichen Katalog, der sich mit Inhalten auszeichnet, die
+auf keinen anderen Streaming Plattformen verfügbar sind. Ein sauberes User Interface,
+große Bildflächen und größtenteils strikte Strukturierungen runden das Nutzererlebnis ab.
+Die App ist leicht zu bedienen, daher schnell erlernbar und verständlich.
+Als Kritikpunkt sind die mangelnden Benachrichtigungen, Interaktionsmöglichkeiten und
+Anpassungsfunktionen zu nennen.
+Wer darüber hinwegsieht und die App dafür nutzt wofür sie gemacht wurde, um
+Videoinhalte zu konsumieren, wird glücklich und zufrieden bei der Nutzung sein.

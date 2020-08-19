@@ -100,36 +100,36 @@ public class Main {
         System.out.println("The text is:");
         System.out.println(text);
         System.out.println();
-        System.out.println("Words: " + words);
-        System.out.println("Sentences: " + sentences);
-        System.out.println("Characters: " + characters);
-        System.out.println("Syllables: " + syllables);
-        System.out.println("Polysyllables: " + polysyllables);
+        System.out.println("Words: " + (int) words);
+        System.out.println("Sentences: " + (int) sentences);
+        System.out.println("Characters: " + (int) characters);
+        System.out.println("Syllables: " + (int) syllables);
+        System.out.println("Polysyllables: " + (int) polysyllables);
         System.out.println("Enter the score you want to calculate (ARI, FK, SMOG, CL, all): ");
         String choice = scanner.nextLine();
         System.out.println();
 
         switch (choice) {
             case "ARI":
-                System.out.println("Automated Readability Index: " + ARITestResult + " (about " + ARIScoreAge + " year olds).");
+                System.out.println("Automated Readability Index: " + String.format( "%.2f", ARITestResult) + " (about " + ARIScoreAge + " year olds).");
                 break;
             case "FK":
-                System.out.println("Flesch–Kincaid readability tests: " + FKTestResult + " (about " + FKScoreAge + " year olds).");
+                System.out.println("Flesch–Kincaid readability tests: " + String.format( "%.2f", FKTestResult) + " (about " + FKScoreAge + " year olds).");
                 break;
             case "SMOG":
-                System.out.println("Simple Measure of Gobbledygook: " + SMOGTestResult + " (about " + SMOGScoreAge + " year olds).");
+                System.out.println("Simple Measure of Gobbledygook: " + String.format( "%.2f", SMOGTestResult) + " (about " + SMOGScoreAge + " year olds).");
                 break;
             case "CL":
-                System.out.println("Coleman–Liau index: " + CLTestResult + " (about " + CLScoreAge + " year olds).");
+                System.out.println("Coleman–Liau index: " + String.format( "%.2f", CLTestResult) + " (about " + CLScoreAge + " year olds).");
                 break;
             case "all":
-                System.out.println("Automated Readability Index: " + ARITestResult(characters, words, sentences) + " (about " + ARIScoreAge + " year olds).");
-                System.out.println("Flesch–Kincaid readability tests: " + fleschKincaidTestResult(words, sentences, syllables) + " (about " + FKScoreAge + " year olds).");
-                System.out.println("Simple Measure of Gobbledygook: " + smogIndexResult(polysyllables, sentences) + SMOGTestResult + " (about " + SMOGScoreAge + " year olds).");
-                System.out.println("Coleman–Liau index: " + colemanLiauIndexResult(sentences, words, characters) + " (about " + CLScoreAge + " year olds).");
+                System.out.println("Automated Readability Index: " + String.format( "%.2f", ARITestResult) + " (about " + ARIScoreAge + " year olds).");
+                System.out.println("Flesch–Kincaid readability tests: " + String.format( "%.2f", FKTestResult) + " (about " + FKScoreAge + " year olds).");
+                System.out.println("Simple Measure of Gobbledygook: " + String.format( "%.2f", SMOGTestResult) + " (about " + SMOGScoreAge + " year olds).");
+                System.out.println("Coleman–Liau index: " + String.format( "%.2f", CLTestResult) + " (about " + CLScoreAge + " year olds).");
                 System.out.println();
                 double averageAge = (ARIScoreAge + FKScoreAge + SMOGScoreAge + CLScoreAge) / 4.0;
-                System.out.println("This text should be understood by " + averageAge + " year olds.");
+                System.out.println("This text should be understood by " + String.format( "%.2f", averageAge) + " year olds.");
                 break;
         }
 
