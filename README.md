@@ -39,7 +39,7 @@ The formulas for calculating the results are given below, where characters is th
 
 ## Usage
 
-1. Import the project to the IDEA of your choice.
+1. Import the project to the IDE of your choice.
 2. Add your text to the input.txt, it's used to run the application.
 3. Run the application and follow the terminal instructions.
 
