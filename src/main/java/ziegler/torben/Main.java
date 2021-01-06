@@ -15,22 +15,25 @@ public class Main {
      * @param args no arguments needed
      */
     public static void main(String[] args) {
-
         Processing processing = new Processing();
         String text = processing.processText("input.txt"); // set text file
 
-        double characters = text.replaceAll("\\s", "").split("").length; // amount of characters
-        double sentences = text.split("([!.?])").length; // amount of sentences
-        double words = text.split("\\s").length; // amount of words (total)
-        String[] wordsArray = text.split("\\s");
+        if (text.equals("")) {
+            System.out.println("No text was found in given file");
+        } else {
+            double characters = text.replaceAll("\\s", "").split("").length; // amount of characters
+            double sentences = text.split("([!.?])").length; // amount of sentences
+            double words = text.split("\\s").length; // amount of words (total)
+            String[] wordsArray = text.split("\\s");
 
-        processing.calculateSyllables(wordsArray);
+            processing.calculateSyllables(wordsArray);
+            double syllables = processing.getSyllables();
+            double polysyllables = processing.getPolysyllables();
 
-        double syllables = processing.getSyllables();
-        double polysyllables = processing.getPolysyllables();
+            Result result = new Result();
+            result.showResults(text, words, sentences, characters, syllables, polysyllables); // prints out test results
+        }
 
-        Result result = new Result();
-        result.showResults(text, words, sentences, characters, syllables, polysyllables); // prints out test results
     }
 
 }
