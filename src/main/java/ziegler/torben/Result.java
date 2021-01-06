@@ -1,10 +1,22 @@
 package ziegler.torben;
 
+/**
+ * Guiding the user to the results
+ */
 public class Result {
 
+    /**
+     * Displays the results of the calculations
+     *
+     * @param text          given text
+     * @param words         amount of words
+     * @param sentences     amount of sentences
+     * @param characters    amount of characters
+     * @param syllables     amount of syllables
+     * @param polysyllables amount of polysyllables
+     */
     void showResults(String text, double words, double sentences, double characters, double syllables, double polysyllables) {
         Calculation calc = new Calculation();
-
 
         // ARI Results
         double ARITestResult = calc.ARITestResult(characters, words, sentences);
@@ -18,7 +30,6 @@ public class Result {
         // CL Results
         double CLTestResult = calc.colemanLiauIndexResult(sentences, words, characters);
         int CLScoreAge = (int) Math.ceil(CLTestResult);
-
 
         System.out.println("The text is:");
         System.out.println(text);
@@ -48,8 +59,8 @@ public class Result {
             case "all":
                 System.out.println("Automated Readability Index: " + String.format( "%.2f", ARITestResult) + " (about " + ARIScoreAge + " year olds).");
                 System.out.println("Flesch–Kincaid readability tests: " + String.format( "%.2f", FKTestResult) + " (about " + FKScoreAge + " year olds).");
-                System.out.println("Simple Measure of Gobbledygook: " + String.format( "%.2f", SMOGTestResult) + " (about " + SMOGScoreAge + " year olds).");
-                System.out.println("Coleman–Liau index: " + String.format( "%.2f", CLTestResult) + " (about " + CLScoreAge + " year olds).");
+                System.out.println("Simple Measure of Gobbledygook: " + String.format("%.2f", SMOGTestResult) + " (about " + SMOGScoreAge + " year olds).");
+                System.out.println("Coleman–Liau Index: " + String.format("%.2f", CLTestResult) + " (about " + CLScoreAge + " year olds).");
                 System.out.println();
                 double averageAge = (ARIScoreAge + FKScoreAge + SMOGScoreAge + CLScoreAge) / 4.0;
                 System.out.println("This text should be understood by " + String.format( "%.2f", averageAge) + " year olds.");
