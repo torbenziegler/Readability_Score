@@ -43,5 +43,8 @@ The formulas for calculating the results are given below, where characters is th
 2. Add your text to the input.txt, it's used to run the application.
 3. Run the application and follow the terminal instructions.
 
+> [See the documentation](https://github.com/torbenziegler/Readability_Score/tree/master/src/main/resources/JavaDoc)
+
+> GitHub language distribution doesn't represent the project. The project is written in Java, only the documentation is HTML. 
 
 > The project is based off the [JetBrains Academy](https://hyperskill.org/projects/39). The project idea was given. All code was written and implemented by myself.
